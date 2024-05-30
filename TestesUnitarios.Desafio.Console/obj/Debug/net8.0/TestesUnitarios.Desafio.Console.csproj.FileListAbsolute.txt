@@ -1,0 +1,15 @@
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.exe
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.deps.json
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.dll
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.pdb
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.sourcelink.json
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.dll
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\refint\TestesUnitarios.Desafio.Console.dll
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.pdb
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+C:\PROJETOS DEV\C#\TestesUnitarios.Desafio\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\ref\TestesUnitarios.Desafio.Console.dll
